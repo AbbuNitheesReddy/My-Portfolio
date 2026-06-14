@@ -93,7 +93,7 @@ const CLITerminal: React.FC<CLITerminalProps> = ({ isOpen, setIsOpen }) => {
       case 'contact':
         response = [
           'Email    : nithish.7098@gmail.com',
-          'GitHub   : github.com/AbbuNithishReddy',
+          'GitHub   : github.com/AbbuNitheesReddy',
           'LinkedIn : linkedin.com/in/abbunitheesreddy',
           '',
           'Open to AI / ML roles and collaborations.',

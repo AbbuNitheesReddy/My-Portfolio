@@ -18,7 +18,7 @@ import { ReactLenis } from 'lenis/react';
 // TODO: confirm GitHub URL (placeholder below from git config + best guess).
 const SOCIAL_LINKS = [
   { name: 'LinkedIn', icon: Linkedin, url: 'https://www.linkedin.com/in/abbunitheesreddy/', label: "NITHEES' LINKEDIN" },
-  { name: 'GitHub', icon: Github, url: 'https://github.com/AbbuNithishReddy', label: "NITHEES' GITHUB" },
+  { name: 'GitHub', icon: Github, url: 'https://github.com/AbbuNitheesReddy', label: "NITHEES' GITHUB" },
   { name: 'Email', icon: Mail, url: 'mailto:nithish.7098@gmail.com', label: "NITHEES' EMAIL" },
 ];
 

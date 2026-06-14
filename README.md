@@ -35,7 +35,7 @@ A modern, fully static single-page portfolio built with **React 19** and **Vite 
 No backend, no API keys, no telemetry — 100% static and deployable anywhere.
 
 **🌐 Live Demo:** [abbunithees.reddy.vercel.app](https://abbunithees.reddy.vercel.app)
-**📱 GitHub:** [github.com/AbbuNithishReddy/My-Portfolio](https://github.com/AbbuNithishReddy/My-Portfolio)
+**📱 GitHub:** [github.com/AbbuNitheesReddy/My-Portfolio](https://github.com/AbbuNitheesReddy/My-Portfolio)
 
 ## ✨ Features
 
@@ -151,7 +151,7 @@ npx tsc --noEmit
 
 | Platform         | Handle                                                          | Link                                   |
 | ---------------- | -------------------------------------------------------------- | -------------------------------------- |
-| 🐙 **GitHub**    | [@AbbuNithishReddy](https://github.com/AbbuNithishReddy)       | `https://github.com/AbbuNithishReddy`  |
+| 🐙 **GitHub**    | [@AbbuNitheesReddy](https://github.com/AbbuNitheesReddy)       | `https://github.com/AbbuNitheesReddy`  |
 | 💼 **LinkedIn**  | [Abbu Nithees Reddy](https://linkedin.com/in/abbunitheesreddy) | Professional Network                   |
 | 📧 **Email**     | [nithish.7098@gmail.com](mailto:nithish.7098@gmail.com)        | Direct Contact                         |
 
@@ -166,6 +166,6 @@ npx tsc --noEmit
 _AI & Machine Learning Engineer_
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abbunithees.reddy.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://abbunithees.reddy.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-AbbuNithishReddy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbbuNithishReddy)
+[![GitHub](https://img.shields.io/badge/GitHub-AbbuNitheesReddy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbbuNitheesReddy)
 
 </div>

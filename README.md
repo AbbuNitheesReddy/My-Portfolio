@@ -9,7 +9,7 @@
 
 <kbd>My space on the web</kbd> — a terminal-themed portfolio with stunning dark aesthetics
 
-[![Portfolio Banner](https://img.shields.io/badge/Portfolio-Live%20Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://abbunithees.reddy.vercel.app)
+[![Portfolio Banner](https://img.shields.io/badge/Portfolio-Live%20Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://abbunitheesreddy.vercel.app)
 
 </div>
 

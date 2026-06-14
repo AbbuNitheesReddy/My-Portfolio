@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Logo / Profile -->
-  <img src="public/nithees.png" alt="Portfolio Logo" width="120" height="120">
+  <img src="public/1nithees.png" alt="Portfolio Logo" width="120" height="120">
 
 ### ✨ Artificial Intelligence & Machine Learning Engineer
 
